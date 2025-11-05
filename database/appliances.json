@@ -1,0 +1,14 @@
+[
+  {
+    "brand": "Bosch",
+    "model": "WAT28480OE",
+    "type": "Стиральная машина",
+    "errors": ["E18", "F21", "F43"]
+  },
+  {
+    "brand": "Indesit",
+    "model": "IWSC 61252",
+    "type": "Стиральная машина",
+    "errors": ["F01", "F05", "F12"]
+  }
+]
